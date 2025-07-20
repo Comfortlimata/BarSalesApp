@@ -1,0 +1,4 @@
+__pycache__/
+bar_sales.db
+exports/
+*.pyc 
