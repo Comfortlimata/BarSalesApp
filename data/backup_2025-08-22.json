@@ -1,0 +1,34 @@
+[
+  {
+    "id": 11,
+    "transaction_id": "TX-20250822163750-1908ba",
+    "cashier": "comfort",
+    "total": 180.0,
+    "timestamp": "2025-08-22 16:37:50",
+    "status": "ACTIVE",
+    "void_reason": null,
+    "void_authorized_by": null,
+    "voided_at": null,
+    "is_voided": 0,
+    "adjustment_type": null,
+    "reason": null,
+    "authorized_by": null,
+    "original_sale_id": null
+  },
+  {
+    "id": 12,
+    "transaction_id": "TX-20250822163927-2f90a7",
+    "cashier": "comfort",
+    "total": 140.0,
+    "timestamp": "2025-08-22 16:39:27",
+    "status": "ACTIVE",
+    "void_reason": null,
+    "void_authorized_by": null,
+    "voided_at": null,
+    "is_voided": 0,
+    "adjustment_type": null,
+    "reason": null,
+    "authorized_by": null,
+    "original_sale_id": null
+  }
+]

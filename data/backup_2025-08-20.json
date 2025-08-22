@@ -1,0 +1,17 @@
+[
+  {
+    "id": 9,
+    "username": "comfort",
+    "item": "Black Label",
+    "quantity": 4,
+    "price_per_unit": 25.0,
+    "total": 100.0,
+    "timestamp": "2025-08-20 20:16:18",
+    "is_voided": 0,
+    "adjustment_type": null,
+    "reason": null,
+    "authorized_by": null,
+    "voided_at": null,
+    "original_sale_id": null
+  }
+]

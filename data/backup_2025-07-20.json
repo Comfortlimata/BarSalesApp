@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 25.0,
+    "total": 75.0,
+    "timestamp": "2025-07-20 11:02:09"
+  },
+  {
+    "id": 2,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 25.0,
+    "total": 75.0,
+    "timestamp": "2025-07-20 11:03:38"
+  },
+  {
+    "id": 3,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 25.0,
+    "total": 75.0,
+    "timestamp": "2025-07-20 11:03:56"
+  },
+  {
+    "id": 4,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 25.0,
+    "total": 75.0,
+    "timestamp": "2025-07-20 11:03:59"
+  },
+  {
+    "id": 5,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 25.0,
+    "total": 75.0,
+    "timestamp": "2025-07-20 11:04:34"
+  },
+  {
+    "id": 6,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 2,
+    "price_per_unit": 14.0,
+    "total": 28.0,
+    "timestamp": "2025-07-20 13:19:47"
+  },
+  {
+    "id": 7,
+    "username": "cashier",
+    "item": "black label",
+    "quantity": 2,
+    "price_per_unit": 14.0,
+    "total": 28.0,
+    "timestamp": "2025-07-20 13:21:31"
+  },
+  {
+    "id": 8,
+    "username": "comfort",
+    "item": "black label",
+    "quantity": 3,
+    "price_per_unit": 3.0,
+    "total": 9.0,
+    "timestamp": "2025-07-20 13:37:36"
+  }
+]
