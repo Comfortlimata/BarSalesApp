@@ -659,7 +659,7 @@ def show_main_app():
         row2_frame = tk.Frame(admin_frame, bg='#f0f0f0')
         row2_frame.pack(fill='x', pady=(0, 10))
         
-        tk.Button(row2_frame, text="Export All Sales", command=export_all_sales, 
+        tk.Button(row2_frame, text="Export All Sales", command=export_all_sales,  # Enhanced stock tracking functions
                  bg='#27ae60', fg='white', font=('Arial', 10, 'bold'), pady=8).pack(side='left', fill='x', expand=True, padx=(0, 5))
         tk.Button(row2_frame, text="Export Stock Report", command=export_stock_report, 
                  bg='#16a085', fg='white', font=('Arial', 10, 'bold'), pady=8).pack(side='left', fill='x', expand=True, padx=(5, 0))

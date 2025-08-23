@@ -121,5 +121,3 @@ def create_audit_backup():
         return f"Audit backup created: {backup_name}"
     except Exception as e:
         return f"Backup failed: {str(e)}"
-
-python schema_migration.py
